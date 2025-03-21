@@ -37,6 +37,11 @@ li {
     font-size: 45px;
 }
 
+.bloks:hover {
+    background:  #ff4747;
+    cursor: pointer;
+}
+
 a {
     text-decoration: none;
     display: inline-block;
